@@ -1,0 +1,12 @@
+Using Jupyter
+
+0. Install Anaconda + Python 2.7
+1. Open the terminal or command prompt.
+2. Go to the folder that the python notboook code is in (lessons/lesson-01/code).
+3. Run the following commands:
+conda install scikit-learn
+conda install pandas
+conda install seaborn
+3. Run the following command:
+jupyter notebook starter-code-1.ipynb
+4. That's it. Get cracking!
