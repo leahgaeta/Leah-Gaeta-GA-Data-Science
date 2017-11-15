@@ -39,7 +39,7 @@ Following these steps will help you better understand your dataset.
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 5 | Project 2  | Exploratory Data Analysis   |
+| Lesson 7 | Project 2  | Exploratory Data Analysis   |
 
 ---
 

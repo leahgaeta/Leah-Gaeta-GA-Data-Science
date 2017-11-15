@@ -30,7 +30,7 @@ Building upon the framework you created in Project 1, now you'll need to explore
 
 - **Goal**: Explore data with visualizations and statistical analysis in an iPython notebook.
 - [Detailed Spec File](./project-1/README.md)
-- Due date: TBD
+- Due date: Nov 20, 2017
 
 #### Project 3
 
