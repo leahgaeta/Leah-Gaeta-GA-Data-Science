@@ -38,7 +38,7 @@ Students will put into practice the framework and exploratory analysis created i
 
 - **Goal**: Perform logistic regression on UCLA dataset, creating dummy variables and calculating probabilities.
 - [Detailed Spec File](./project-3/README.md)
-- Due date: TBD
+- Due date: Dec 6, 2017
 
 #### Project 4
 
@@ -48,4 +48,4 @@ This project will familiarize students with the role of audience analysis and mo
 
 - **Goal**: Present your findings in an iPython notebook with executive summary, visuals, and recommendations.
 - [Detailed Spec File](./project-4/README.md)
-- Due date: TBD
+- Due date: Dec 11, 2017

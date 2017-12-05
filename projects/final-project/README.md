@@ -11,7 +11,7 @@ In the field of data science, projects are practical. A good project is manageab
 
 - **Goal**: Prepare a one-minute lightning talk that covers 3 potential project topics.
 - **[Detailed Spec File](./01-lightning-talk/README.md)**
-- **Due Date:** TBD
+- **Due Date:** Nov 29, 2017
 
 
 ### **Final Project, pt. 2**
@@ -20,7 +20,7 @@ Project outlines are a valuable resource when working through data projects. For
 
 - **Goal**: Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics.
 - **[Detailed Spec File](./02-experiment-writeup/README.md)**
-- **Due Date:** TBD
+- **Due Date:** Dec 11, 2017
 
 
 ### **Final Project, pt. 3**
@@ -29,7 +29,7 @@ Exploratory data analysis is a crucial and informative step in the data process.
 
 - **Goal**: Confirm your data and create an exploratory analysis notebook with stat analysis and visualization.
 - **[Detailed Spec File](./03-exploratory-analysis/README.md)**
-- **Due Date:** TBD
+- **Due Date:** Dec 20, 2017
 
 
 ### **Final Project, pt. 4**
@@ -40,7 +40,7 @@ Use your model to display correlations, feature importance, and unexplained vari
 
 - **Goal**: Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics.
 - **[Detailed Spec File](./04-notebook-rough-draft/README.md)**
-- **Due Date:** TBD
+- **Due Date:** Jan 10, 2017
 
 
 ### **Final Project, pt. 5**
@@ -51,4 +51,4 @@ You should already have the analytical work complete, so now it's time to clean 
 
 - **Goal**: Detailed presentation deck that relates your data, model, and findings to a non-technical audience.
 - **[Detailed Spec File](./05-presentation/README.md)**
-- **Due Date:** TBD
+- **Due Date:** Jan 18, 2017
