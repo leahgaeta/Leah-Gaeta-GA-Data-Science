@@ -34,8 +34,7 @@ In this assignment, you will explore and visualize your initial analysis in orde
    - Try experimenting with other visualization languages; python/pandas-highcharts, shiny/r, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
 
 - **Submission:**
-   - To be uploaded via your student Github repository.
-   - **Due Date:** TBD
+   - To be uploaded via your student Github repository as a Python notebook.
 
 ---
 

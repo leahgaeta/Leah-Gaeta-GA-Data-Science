@@ -28,8 +28,7 @@ Remember, completing this task earlier will give you more chances to iterate and
     - "Convert" your goal metric from a statistical one (like Mean Squared Error) and tie it to something non-data people can understand, like a cost/benefit analysis, etc.
 
 - **Submission:**	 
-  - To be uploaded via your student Github repository.
-  - **Due Date:** TBD
+  - To be uploaded via your student Github repository as a Word/Pages document.
 
 ---
 

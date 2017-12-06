@@ -65,8 +65,7 @@ A 10 to 20 slide deck consisting of:
 
 **Submission:**	
 
-  - To be uploaded via your student Github repository.
-  - **Due Date:** TBD
+  - To be uploaded via your student Github repository as a PPT/Keynote/PDF.
 
 ---
 
