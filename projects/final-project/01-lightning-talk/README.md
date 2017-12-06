@@ -34,7 +34,6 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 - **Submission:**	
     * Present materials in class
     * Upload presentation via student GitHub repository.
-	* **Due Date:** TBD
 
 
 ---

@@ -35,7 +35,7 @@ In this project, you will summarize and present your analysis from Projects 1-3.
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 12 | Project 4  | Notebook with Executive Summary   |
+| Lesson 13 | Project 4  | Notebook with Executive Summary   |
 
 ---
 
